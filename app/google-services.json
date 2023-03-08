@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216937291172",
+    "project_id": "cloud-firebase-aedf4",
+    "storage_bucket": "cloud-firebase-aedf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216937291172:android:2e99aa1e81d91c1a5b3531",
+        "android_client_info": {
+          "package_name": "com.example.realtimeactivityfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216937291172-2737hcfkj6r91juruko9enafai9sova1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPuMSxQbSpYJ1h3zyNQG_Mpo2c7NFM18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216937291172-2737hcfkj6r91juruko9enafai9sova1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
